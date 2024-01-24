@@ -1,5 +1,6 @@
-<a href=""><img src="https://github.com/mugil0095/My-Portfolio/blob/main/asset/Design.png" width="100" height="100"/></a>
-
+<center>
+    <a href=""><img src="https://github.com/mugil0095/My-Portfolio/blob/main/asset/Design.png" width="100" height="100"/></a>
+</center>
 
 # Hello there 👋, I'm Ilamugil Balasubramaniam
 
