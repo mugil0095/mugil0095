@@ -1,6 +1,13 @@
-<center>
-    <a href=""><img src="https://github.com/mugil0095/My-Portfolio/blob/main/asset/Design.png" width="100" height="100"/></a>
-</center>
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+<a href=""><img src="https://github.com/mugil0095/My-Portfolio/blob/main/asset/Design.png" width="100" height="100" class="center"/></a>
+
 
 # Hello there 👋, I'm Ilamugil Balasubramaniam
 
