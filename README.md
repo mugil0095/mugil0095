@@ -1,5 +1,5 @@
 
-<a href=""><img src="https://github.com/mugil0095/My-Portfolio/blob/main/asset/Design.png" width="1000" height="1000" /></a>
+<a href=""><img src="https://github.com/mugil0095/My-Portfolio/blob/main/asset/Design.png" width="500" height="500" /></a>
 
 
 # Hello there 👋, I'm Ilamugil Balasubramaniam
