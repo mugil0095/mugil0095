@@ -24,7 +24,7 @@
             <a href="https://mugil0095.github.io/My-Portfolio/">🌐</a>
         </td>
         <td>
-            <a href="https://mugil0095.github.io/My-Portfolio/asset/Ilamugil%20Resume.pdf">📃</a>
+            <a href="https://mugil0095.github.io/My-Portfolio/asset/Ilamugil Resume.pdf">📃</a>
         </td>
     </tr>
 </table>
