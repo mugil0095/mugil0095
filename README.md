@@ -106,6 +106,7 @@
         <td>
             <a href=""><img src="https://thumbs.dreamstime.com/z/agile-icon-methodology-vector-development-scrum-flexible-software-logo-concept-215305594.jpg?w=768" width="40" height="40"/></a>
             <a href=""><img src="https://www.svgrepo.com/show/372946/scrum.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://w7.pngwing.com/pngs/203/292/png-transparent-systems-development-life-cycle-agile-software-development-computer-software-technology-technology-electronics-label-text-thumbnail.png" width="40" height="40"/></a>
     </tr>
 </table>
 
