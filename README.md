@@ -36,7 +36,7 @@
 <a href="https://"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40"/></a><!--
 -->
 <a href="https://www.linkedin.com/in//"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://www.pinterest.co.uk/"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
+<a href="https://www.pinterest.co.uk/"><img src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.html" width="40" height="40"/></a>
 
 ### Toolset
 
