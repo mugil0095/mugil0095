@@ -66,7 +66,7 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://uxwing.com/wp-content/themes/uxwing/download/internet-network-technology/learning-machine-ai-icon.png" width="40" height="40"/></a>
+            <a href=""><img src="https://icons8.com/icon/97624/brain" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
