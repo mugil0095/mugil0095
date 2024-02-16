@@ -74,6 +74,7 @@
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/anaconda/anaconda-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
