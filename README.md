@@ -66,7 +66,7 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.flaticon.com/free-icon/brain_9240330?term=machine+learning&page=1&position=1&origin=tag&related_id=9240330" width="40" height="40"/></a>
+            <a href=""><img src="https://www.flaticon.com/free-icon/machine-learning_11522572?term=machine+learning&page=1&position=7&origin=tag&related_id=11522572" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
