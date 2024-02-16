@@ -2,7 +2,7 @@
 
 # Hello there 👋, I'm Ilamugil Balasubramaniam
 
-### Software/DevOps/Platform Engineer
+### Software Engineer/Developer
 
 - 🔭 I’m a Recent Graduate. 
 - 🌱 I’m Currently Learning Technologies and the Current stack.
