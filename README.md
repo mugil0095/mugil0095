@@ -85,7 +85,7 @@
         <td>Databases/Datastores</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://gist.github.com/Eduardokopp/9e7872ba3ca293ee1e71362dc5edbb4f.js" width="40" height="40"/></a>
+            <a href=""><img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
