@@ -42,15 +42,10 @@
 
 <table>
     <tr>
-        <td>Automation Tooling</td>
-        <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
         <td>Cloud Engineering</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
             <!-- <a href=""><img src=""/></a>
             <a href=""><img src=""/></a> -->
         </td>
