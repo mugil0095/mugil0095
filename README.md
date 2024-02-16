@@ -108,6 +108,15 @@
             <a href=""><img src="https://www.svgrepo.com/show/372946/scrum.svg" width="40" height="40"/></a>
             <a href=""><img src="https://w7.pngwing.com/pngs/203/292/png-transparent-systems-development-life-cycle-agile-software-development-computer-software-technology-technology-electronics-label-text-thumbnail.png" width="40" height="40"/></a>
     </tr>
+    <tr>
+        <td>Familiar with or Others</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="40" height="40"/></a>
+    </tr>
 </table>
 
 
