@@ -104,6 +104,7 @@
             <a href=""><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="40" height="40"/></a>
             <a href=""><img src="https://www.logo.wine/a/logo/NetBeans/NetBeans-Logo.wine.svg" width="40" height="40"/></a>
             <a href=""><img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40"/></a>
     </tr>
     <tr>
         <td>Project Management/Methodology</td>
