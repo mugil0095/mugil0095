@@ -66,7 +66,7 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://iconduck.com/icons/9460/machine-learning-model?shared" width="40" height="40"/></a>
+            <a href=""><img src="https://www.iconpacks.net/icons/free-icons-6/free-machine-learning-algorithm-icon-22213.png" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
