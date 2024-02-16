@@ -36,6 +36,22 @@
 <a href="https://www.linkedin.com/in//"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 <a href="https://www.pinterest.co.uk/"><img src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" width="40" height="40"/></a>
 
+### My Projects
+<table>
+    <tr>
+        <td>1</td>
+        <td>REALTIME DROWSINESS IDENTIFICATION BASED ON EYE STATE ANALYSIS</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>A GESTURE-BASED TOOL FOR STERILE BROWSING OF RADIOLOGY IMAGES</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>BUS RESERVATION AND MANAGEMENT SYSTEM</td>
+    </tr>
+</table>
+
 ### Toolset
 
 <table>
