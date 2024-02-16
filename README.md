@@ -101,6 +101,11 @@
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
     </tr>
+    <tr>
+        <td>Project Management/Methodology</td>
+        <td>
+            <a href=""><img src="https://thumbs.dreamstime.com/z/agile-icon-methodology-vector-development-scrum-flexible-software-logo-concept-215305594.jpg?w=768" width="40" height="40"/></a>
+    </tr>
 </table>
 
 
