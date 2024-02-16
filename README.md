@@ -80,6 +80,12 @@
         <td>Libraries</td>
         <td>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg?20160918183624" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
