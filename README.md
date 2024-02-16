@@ -72,7 +72,6 @@
     <tr>
         <td>Tools</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
@@ -85,6 +84,8 @@
     <tr>
         <td>Databases/Datastores</td>
         <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://icon.icepanel.io/Technology/png-shadow-512/Microsoft-SQL-Server.png" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
