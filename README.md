@@ -77,9 +77,9 @@
         </td>
     </tr>
     <tr>
-        <td>Frontend Dev</td>
+        <td>Libraries</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg?20160918183624" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
