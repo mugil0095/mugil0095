@@ -43,11 +43,11 @@
     </tr>
     <tr>
         <td>2</td>
-        <td>A GESTURE-BASED TOOL FOR STERILE BROWSING OF RADIOLOGY IMAGES</td>
+        <td><a href="https://github.com/mugil0095/A-Gesture-Based-Tool-For-Sterile-Browsing-Of-Radiology-Images">A GESTURE-BASED TOOL FOR STERILE BROWSING OF RADIOLOGY IMAGES</a></td>
     </tr>
     <tr>
         <td>3</td>
-        <td>BUS RESERVATION AND MANAGEMENT SYSTEM</td>
+        <td><a href="https://github.com/mugil0095/Bus-Reservation-and-Management-System?tab=LGPL-2.1-1-ov-file">BUS RESERVATION AND MANAGEMENT SYSTEM</a></td>
     </tr>
 </table>
 
