@@ -39,7 +39,7 @@
 <table>
     <tr>
         <td>1</td>
-        <td>REALTIME DROWSINESS IDENTIFICATION BASED ON EYE STATE ANALYSIS<a href="https://github.com/mugil0095/Realtime-Drowsiness-Identification-Based-on-Eye-State-Analysis"></a></td>
+        <td><a href="https://github.com/mugil0095/Realtime-Drowsiness-Identification-Based-on-Eye-State-Analysis">REALTIME DROWSINESS IDENTIFICATION BASED ON EYE STATE ANALYSIS</a></td>
     </tr>
     <tr>
         <td>2</td>
