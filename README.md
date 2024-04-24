@@ -39,7 +39,7 @@
 <table>
     <tr>
         <td>1</td>
-        <td><a href="https://github.com/mugil0095/Ad-creative-Recognition-with-Computer-Vision.git">BUS RESERVATION AND MANAGEMENT SYSTEM</a></td>
+        <td><a href="https://github.com/mugil0095/Ad-creative-Recognition-with-Computer-Vision.git">AD CREATIVE RECOGNITION WITH COMPUTER VISION</a></td>
     </tr>
     <tr>
         <td>2</td>
