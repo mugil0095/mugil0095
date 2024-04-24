@@ -2,10 +2,10 @@
 
 # Hello there 👋, I'm Ilamugil Balasubramaniam
 
-### Software Engineer/Developer
+### Software Engineer/Developer - AI/ML Engineer
 
 - 🔭 I’m a Recent Graduate. 
-- 🌱 I’m Currently Learning Technologies and the Current stack.
+- 🌱 I’m Currently Learning Technologies and the Current stack Especially in Machine Learning and Deep Learning.
 - 💬 Ask me about My projects and Related stack.
 - ⚡ Fun fact: Having grown up in Erode, I've never tasted Hams and Beefs.
 
