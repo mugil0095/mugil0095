@@ -2,7 +2,7 @@
 
 # Hello there 👋, I'm Ilamugil Balasubramaniam
 
-### Software Engineer/Developer - AI/ML Engineer
+### Software Engineer/Developer - AI/ML Engineer, Data Science
 
 - 🔭 I’m a Recent Graduate. 
 - 🌱 I’m Currently Learning Technologies and the Current stack Especially in Machine Learning and Deep Learning.
