@@ -19,7 +19,8 @@
     </tr>
     <tr>
         <td>
-            <a href="https://mugil0095.github.io/My-Portfolio/">🌐</a>
+            <a href="https://mugil0095.github.io/My-Portfol
+                o/">🌐</a>
         </td>
         <td>
             <a href="https://mugil0095.github.io/My-Portfolio/asset/Ilamugil Re">📃</a>
