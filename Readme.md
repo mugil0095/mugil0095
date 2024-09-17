@@ -8,8 +8,6 @@ This Assignment implements a machine learning pipeline for video classification 
 
 - **Diffusion Model**: Utilized for detecting reconstruction errors and extracting features from video frames.
 - **CNN+LSTM Model**: Processes features extracted by the diffusion model for binary classification tasks.
-- **Evaluation Metrics**: Computes accuracy, precision, recall, and F1-score for evaluating the performance of the classification model.
-
 
 ## Requirements
 
