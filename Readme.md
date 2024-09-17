@@ -59,7 +59,8 @@ Execute the main function to start the pipeline. The pipeline will process the v
 python pipeline.py
 ```
 
-## Note: Replace `/path/to/video/directory` in pipeline.py
+## Note: 
+Replace `/path/to/video/directory` in pipeline.py
 
 
 ## Troubleshooting
