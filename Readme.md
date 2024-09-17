@@ -19,7 +19,7 @@ This Assignment implements a machine learning pipeline for video classification 
 You can install the necessary Python packages using (Incase of running in vscode, cmd or any other):
 
 ```bash
-pip install torch torchvision opencv-python scikit-learn
+pip install torch torchvision opencv-python 
 ```
 
 (Incase of Jupyter Notebook or google colab):
