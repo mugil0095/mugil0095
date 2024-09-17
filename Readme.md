@@ -85,8 +85,8 @@ If you encounter issues while running the code, here are some common troubleshoo
 
 ## Acknowledgements
 
-- **Research Papers**: This project builds on methodologies and techniques from relevant research papers in the field of machine learning and computer vision.
-- **Open Source Libraries**: Special thanks to PyTorch, OpenCV, and scikit-learn for providing essential tools and libraries used in this project.
+- **Research Papers**: This Assignment builds on methodologies and techniques from relevant research papers in the field of machine learning and computer vision.
+- **Open Source Libraries**: Special thanks to PyTorch, OpenCV, and scikit-learn for providing essential tools and libraries used in this Assignment.
 
 ---
 
