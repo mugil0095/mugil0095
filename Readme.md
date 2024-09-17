@@ -1,4 +1,4 @@
-# Video Classification Pipeline with Diffusion Model and CNN+LSTM
+# Pipeline for Video Classification: Utilizing a Diffusion Model for Reconstruction Error Detection and CNN+LSTM Architecture
 
 ## Overview
 
