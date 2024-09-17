@@ -33,7 +33,7 @@ pip install torch torchvision opencv-python scikit-learn
 ## Code Structure
 
 1. DiffusionModel: Defines a diffusion model for feature extraction and reconstruction error detection.
-2. CNNLSTMModel: Defines a CNN+LSTM model for video classification.
+2. CNN+LSTMModel: Defines a CNN+LSTM model for video classification.
 3. VideoDataset: Custom dataset class for loading and preprocessing video data.
 4. main: Main function to execute the pipeline, including:
 - Uploading and unzipping video files
