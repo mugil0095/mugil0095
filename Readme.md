@@ -44,13 +44,13 @@ pip install torch torchvision opencv-python scikit-learn
 
 
 ## Usage
-# 1. Upload and Prepare Video Files:
+### 1. Upload and Prepare Video Files:
 Ensure that your video files are in a zip archive. The code will prompt you to upload this zip file, which will be extracted for processing.
 
-# 2. Set Parameters:
+### 2. Set Parameters:
 Adjust the parameters in the main function, such as num_steps, frame_rate, and target_size, to fit your dataset and requirements.
 
-# 3. The Pipeline:
+### 3. The Pipeline:
 Execute the main function to start the pipeline. The pipeline will process the video data, perform feature extraction, and classify each video. 
 
 (Incase of running in vscode, cmd or any other):
@@ -59,7 +59,7 @@ Execute the main function to start the pipeline. The pipeline will process the v
 python pipeline.py
 ```
 
-# Note: Replace `/path/to/video/directory` in pipeline.py
+## Note: Replace `/path/to/video/directory` in pipeline.py
 
 
 ## Troubleshooting
