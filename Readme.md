@@ -14,7 +14,6 @@ This Assignment implements a machine learning pipeline for video classification 
 - Python 3.x
 - PyTorch
 - OpenCV
-- scikit-learn
 - torchvision
 
 You can install the necessary Python packages using (Incase of running in vscode, cmd or any other):
