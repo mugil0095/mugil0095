@@ -4,7 +4,7 @@
 
 ### Software Engineer/Developer - AI/ML Engineer, Data Science
 
-- 🔭 I’m a Recent Graduate. 
+- 🔭 I’m a Computer Science and Engineer Graduate. 
 - 🌱 I’m Currently Learning Technologies and the Current stack Especially in Machine Learning and Deep Learning.
 - 💬 Ask me about My projects and Related stack.
 - ⚡ Fun fact: Having grown up in Erode, I've never tasted Hams and Beefs.
