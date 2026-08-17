@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a4a,100:2E7D6B&height=200&section=header&text=Ilamugil%20Balasubramaniam&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20NLP%2C%20Search%20%26%20RAG%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="header banner"/>
+# Ilamugil Balasubramaniam
+
+### 💼 Data Scientist · NLP, Search & RAG Systems
 
 <a href="https://www.linkedin.com/in/ilamugil-balasubramaniam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://mugil0095.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2E7D6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/mugil0095"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://komarev.com/ghpvc/?username=mugil0095&style=for-the-badge&color=2E7D6B&label=PROFILE+VIEWS" alt="profile views"/>
 
+**Building real-time Agentic RAG systems** &nbsp;·&nbsp; Semantic Search &nbsp;·&nbsp; Elasticsearch &nbsp;·&nbsp; Embeddings
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E7D6B&center=true&vCenter=true&width=600&lines=Building+real-time+Agentic+RAG+systems;Semantic+Search+%7C+Elasticsearch+%7C+Embeddings;Open+to+Data+Scientist+%2F+ML+Engineer+roles" alt="Typing SVG"/>
+🎯 Open to Data Scientist / ML Engineer / AI Engineer roles
 
 </div>
 
@@ -17,7 +19,7 @@
 
 ### 👋 About Me
 
-I'm a Computer Science & Engineering graduate who worked as a Data Scientist, focused on the retrieval layer of applied NLP — semantic search, ranking, and the RAG pipelines that sit behind AI assistants. I like turning messy, unstructured data into something a product can query reliably in real time.
+I'm a Computer Science & Engineering graduate working as a Data Scientist, focused on the retrieval layer of applied NLP — semantic search, ranking, and the RAG pipelines that sit behind AI assistants. I like turning messy, unstructured data into something a product can query reliably in real time.
 
 - 🔭 **Currently building:** a real-time, agentic RAG system with built-in hallucination & grounding detection
 - 💼 **Most recent role:** Data Scientist @ Udemy (Feb 2025 – Jan 2026) — multilingual (EN/JA) semantic search, Elasticsearch ranking, and RAG-tuned AI-assistant search
@@ -132,7 +134,7 @@ A rule engine that parses business logic into an Abstract Syntax Tree for dynami
 
 ---
 
-### 📊 GitHub Dashboard
+### 📊 GitHub Activity
 
 <div align="center">
 <picture>
@@ -142,20 +144,19 @@ A rule engine that parses business logic into an Abstract Syntax Tree for dynami
 </picture>
 </div>
 
-<table>
-<tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=mugil0095&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" width="100%"/></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugil0095&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" width="100%"/></td>
-</tr>
-</table>
+### 📈 At a Glance
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mugil0095&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" width="100%"/>
-<br/>
-<img src="https://streak-stats.demolab.com/?user=mugil0095&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=mugil0095&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies"/>
+
+<img src="https://img.shields.io/badge/Public_Repos-20-2E7D6B?style=for-the-badge" alt="Public Repos"/>
+<img src="https://img.shields.io/badge/GitHub_Member_Since-2019-2E7D6B?style=for-the-badge" alt="Member Since 2019"/>
+<img src="https://img.shields.io/badge/Most_Used_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Most Used Language"/>
+
 </div>
+
+**Language mix across repositories:** Python (58%) · HTML (21%) · Jupyter Notebook (16%) · JavaScript (5%)
+
+**Most-starred project:** [Realtime Drowsiness Detection](https://github.com/mugil0095/Realtime-Drowsiness-Identification-Based-on-Eye-State-Analysis) ⭐
 
 ---
 
@@ -178,6 +179,7 @@ A rule engine that parses business logic into an Abstract Syntax Tree for dynami
 <a href="https://mugil0095.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2E7D6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/mugil0095"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D6B,100:1a2a4a&height=100&section=footer" width="100%" alt="footer banner"/>
-
 </div>
+
+
+Usage limit rea
