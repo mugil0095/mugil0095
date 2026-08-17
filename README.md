@@ -182,7 +182,7 @@ A rule engine that parses business logic into an Abstract Syntax Tree for dynami
 <a href="https://mugil0095.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2E7D6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/mugil0095"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D6B,100:1a2a4a&height=100&section=footer" width="100%" alt="footer banner"/>
+
+
 </div>
-
-
-Usage limit rea
