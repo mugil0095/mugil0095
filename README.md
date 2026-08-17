@@ -9,11 +9,13 @@
 <a href="https://github.com/mugil0095"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://komarev.com/ghpvc/?username=mugil0095&style=for-the-badge&color=2E7D6B&label=PROFILE+VIEWS" alt="profile views"/>
 
-**Building real-time Agentic RAG systems** &nbsp;·&nbsp; Semantic Search &nbsp;·&nbsp; Elasticsearch &nbsp;·&nbsp; Embeddings
 <br/>
-🎯 Open to Data Scientist / ML Engineer / AI Engineer roles
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E7D6B&center=true&vCenter=true&width=600&lines=Building+real-time+Agentic+RAG+systems;Semantic+Search+%7C+Elasticsearch+%7C+Embeddings;Open+to+Data+Scientist+%2F+ML+Engineer+roles" alt="Typing SVG"/>
 
 </div>
+
+
 
 
 ---
