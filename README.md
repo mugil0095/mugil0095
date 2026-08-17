@@ -17,7 +17,7 @@
 
 ### 👋 About Me
 
-I'm a Computer Science & Engineering graduate working as a Data Scientist, focused on the retrieval layer of applied NLP — semantic search, ranking, and the RAG pipelines that sit behind AI assistants. I like turning messy, unstructured data into something a product can query reliably in real time.
+I'm a Computer Science & Engineering graduate who worked as a Data Scientist, focused on the retrieval layer of applied NLP — semantic search, ranking, and the RAG pipelines that sit behind AI assistants. I like turning messy, unstructured data into something a product can query reliably in real time.
 
 - 🔭 **Currently building:** a real-time, agentic RAG system with built-in hallucination & grounding detection
 - 💼 **Most recent role:** Data Scientist @ Udemy (Feb 2025 – Jan 2026) — multilingual (EN/JA) semantic search, Elasticsearch ranking, and RAG-tuned AI-assistant search
