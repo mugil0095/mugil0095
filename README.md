@@ -1,22 +1,17 @@
 <div align="center">
 
-# Ilamugil Balasubramaniam
-
-### 💼 Data Scientist · NLP, Search & RAG Systems
+<img src="header-banner.svg" width="100%" alt="header banner"/>
 
 <a href="https://www.linkedin.com/in/ilamugil-balasubramaniam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://mugil0095.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2E7D6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/mugil0095"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://komarev.com/ghpvc/?username=mugil0095&style=for-the-badge&color=2E7D6B&label=PROFILE+VIEWS" alt="profile views"/>
 
+**Building real-time Agentic RAG systems** &nbsp;·&nbsp; Semantic Search &nbsp;·&nbsp; Elasticsearch &nbsp;·&nbsp; Embeddings
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E7D6B&center=true&vCenter=true&width=600&lines=Building+real-time+Agentic+RAG+systems;Semantic+Search+%7C+Elasticsearch+%7C+Embeddings;Open+to+Data+Scientist+%2F+ML+Engineer+roles" alt="Typing SVG"/>
+🎯 Open to Data Scientist / ML Engineer / AI Engineer roles
 
 </div>
-
-
-
 
 ---
 
@@ -24,7 +19,7 @@
 
 I'm a Computer Science & Engineering graduate working as a Data Scientist, focused on the retrieval layer of applied NLP — semantic search, ranking, and the RAG pipelines that sit behind AI assistants. I like turning messy, unstructured data into something a product can query reliably in real time.
 
-- 🔭 **Currently building:** a real-time, agentic RAG system with built-in hallucination & grounding detection
+- 🔭 **Currently building:** [VerityRAG](https://github.com/mugil0095/Verity-RAG) — a real-time, agentic RAG system with built-in hallucination & grounding detection
 - 💼 **Most recent role:** Data Scientist @ Udemy (Feb 2025 – Jan 2026) — multilingual (EN/JA) semantic search, Elasticsearch ranking, and RAG-tuned AI-assistant search
 - 🎯 **Actively looking for:** Data Scientist / ML Engineer / AI Engineer roles — open to hybrid & remote across India, and abroad with visa sponsorship
 - 💬 **Ask me about:** RAG pipelines, semantic search & embeddings, Elasticsearch ranking, or Airflow-orchestrated ETL
@@ -43,14 +38,25 @@ I'm a Computer Science & Engineering graduate working as a Data Scientist, focus
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
 <img src="https://img.shields.io/badge/LightGBM-2E7D6B?style=for-the-badge" alt="LightGBM"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SageMaker"/>
+<br/>
+<img src="https://img.shields.io/badge/Regression-2E7D6B?style=for-the-badge" alt="Regression"/>
+<img src="https://img.shields.io/badge/Supervised_%26_Unsupervised_Learning-2E7D6B?style=for-the-badge" alt="Supervised & Unsupervised Learning"/>
+<img src="https://img.shields.io/badge/A%2FB_Testing-2E7D6B?style=for-the-badge" alt="A/B Testing"/>
 
-**NLP & LLM Systems**
+**GenAI, NLP & LLM Systems**
 <br/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Transformers"/>
+<img src="https://img.shields.io/badge/GenAI-2E7D6B?style=for-the-badge" alt="GenAI"/>
+<img src="https://img.shields.io/badge/NLP-2E7D6B?style=for-the-badge" alt="NLP"/>
 <img src="https://img.shields.io/badge/RAG-2E7D6B?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/LLM_Evaluation-2E7D6B?style=for-the-badge" alt="LLM Evaluation"/>
 <img src="https://img.shields.io/badge/Semantic_Search-2E7D6B?style=for-the-badge" alt="Semantic Search"/>
 <img src="https://img.shields.io/badge/Embeddings-2E7D6B?style=for-the-badge" alt="Embeddings"/>
 <img src="https://img.shields.io/badge/Reranking-2E7D6B?style=for-the-badge" alt="Reranking"/>
@@ -65,8 +71,12 @@ I'm a Computer Science & Engineering graduate working as a Data Scientist, focus
 **Tools**
 <br/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 
 ---
 
@@ -74,35 +84,24 @@ I'm a Computer Science & Engineering graduate working as a Data Scientist, focus
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-**🤖 [ATS Resume Analyzer — Gemini](https://github.com/mugil0095/ATS-Optimized-Resume-Analyzer-using-Gemini-Model)**
-<br/>
-LLM-powered resume analyzer built on Google's Gemini model that scores resumes for ATS-compatibility and suggests targeted improvements.
-<br/>
+**🛡️ [VerityRAG](https://github.com/mugil0095/Verity-RAG)** — *Real-time agentic RAG with grounding & hallucination detection*
+<br/><br/>
+Ingests documents continuously and answers through a bounded multi-hop retrieval agent that **refuses to answer rather than hallucinate** when it lacks grounded evidence — verified on a real SQuAD-derived corpus, not a toy example.
+<br/><br/>
+🎯 96% coverage on answerable questions · 73%+ correctly refused on out-of-domain questions (the hallucination guard) &nbsp;|&nbsp; 🔁 Hybrid BM25 + dense retrieval with a LightGBM reranker and query reformulation &nbsp;|&nbsp; ⚡ p50 ~150ms latency &nbsp;|&nbsp; ✅ 58 tests, CI pipeline, FastAPI + Streamlit interfaces
+<br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-
-</td>
-<td width="50%" valign="top">
-
-**🔎 [RAG Chat API](https://github.com/mugil0095/Rag-Chat-API)**
-<br/>
-Retrieval-augmented generation API that answers natural-language questions grounded in a custom document set.
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/LightGBM-2E7D6B?style=flat-square" alt="LightGBM"/>
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td width="50%" valign="top">
-
-**📝 [Transformer-Based Text Classifier](https://github.com/mugil0095/TRANSFORMER---BASED-TEXT-CLASSIFICATION-MODEL)**
-<br/>
-Text classification model built on transformer architectures for automated categorization of unstructured text.
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-
-</td>
 <td width="50%" valign="top">
 
 **👁️ [Realtime Drowsiness Detection](https://github.com/mugil0095/Realtime-Drowsiness-Identification-Based-on-Eye-State-Analysis)** ⭐
@@ -112,22 +111,31 @@ Real-time driver-safety system that monitors eye state from live video to flag d
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 
 </td>
+<td width="50%" valign="top">
+
+**🤖 [ATS Resume Analyzer — Gemini](https://github.com/mugil0095/ATS-Optimized-Resume-Analyzer-using-Gemini-Model)**
+<br/>
+LLM-powered resume analyzer built on Google's Gemini model that scores resumes for ATS-compatibility and suggests targeted improvements.
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📊 [Ad Creative Recognition (CV)](https://github.com/mugil0095/Ad-creative-Recognition-with-Computer-Vision)**
+**🩺 [Gesture-Based Sterile Radiology Browser](https://github.com/mugil0095/A-Gesture-Based-Tool-For-Sterile-Browsing-Of-Radiology-Images)**
 <br/>
-Computer vision pipeline that automatically classifies advertising creative assets, replacing manual review.
+A touchless, gesture-controlled interface for browsing radiology images, letting clinicians navigate scans without breaking sterile technique.
 <br/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
 
 </td>
 <td width="50%" valign="top">
 
-**⚙️ [Rule Engine with AST](https://github.com/mugil0095/Rule-Engine-with-AST)**
+**📄 [PDF Chatbot](https://github.com/mugil0095/PDF-Chatbot)**
 <br/>
-A rule engine that parses business logic into an Abstract Syntax Tree for dynamic, configurable rule evaluation.
+A retrieval-based chatbot that answers natural-language questions directly from uploaded PDF documents.
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 
@@ -182,7 +190,6 @@ A rule engine that parses business logic into an Abstract Syntax Tree for dynami
 <a href="https://mugil0095.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2E7D6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/mugil0095"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D6B,100:1a2a4a&height=100&section=footer" width="100%" alt="footer banner"/>
-
+<img src="footer-banner.svg" width="100%" alt="footer banner"/>
 
 </div>
