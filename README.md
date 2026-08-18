@@ -45,7 +45,6 @@ I'm a Computer Science & Engineering graduate working as a Data Scientist, focus
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SageMaker"/>
-<br/>
 <img src="https://img.shields.io/badge/Regression-2E7D6B?style=for-the-badge" alt="Regression"/>
 <img src="https://img.shields.io/badge/Supervised_%26_Unsupervised_Learning-2E7D6B?style=for-the-badge" alt="Supervised & Unsupervised Learning"/>
 <img src="https://img.shields.io/badge/A%2FB_Testing-2E7D6B?style=for-the-badge" alt="A/B Testing"/>
