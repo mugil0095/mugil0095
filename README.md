@@ -52,13 +52,13 @@ I'm a Computer Science & Engineering graduate working as a Data Scientist, focus
 **GenAI, NLP & LLM Systems**
 <br/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Transformers"/>
-<img src="https://img.shields.io/badge/GenAI-2E7D6B?style=for-the-badge" alt="GenAI"/>
-<img src="https://img.shields.io/badge/NLP-2E7D6B?style=for-the-badge" alt="NLP"/>
-<img src="https://img.shields.io/badge/RAG-2E7D6B?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/LLM_Evaluation-2E7D6B?style=for-the-badge" alt="LLM Evaluation"/>
-<img src="https://img.shields.io/badge/Semantic_Search-2E7D6B?style=for-the-badge" alt="Semantic Search"/>
-<img src="https://img.shields.io/badge/Embeddings-2E7D6B?style=for-the-badge" alt="Embeddings"/>
-<img src="https://img.shields.io/badge/Reranking-2E7D6B?style=for-the-badge" alt="Reranking"/>
+<img src="https://img.shields.io/badge/GenAI-2E7D6B?style=for-the-badge&logoColor=Blue" alt="GenAI"/>
+<img src="https://img.shields.io/badge/NLP-2E7D6B?style=for-the-badge&logoColor=yellow" alt="NLP"/>
+<img src="https://img.shields.io/badge/RAG-2E7D6B?style=for-the-badge&logoColor=green" alt="RAG"/>
+<img src="https://img.shields.io/badge/LLM_Evaluation-2E7D6B?style=for-the-badge&logoColor=black" alt="LLM Evaluation"/>
+<img src="https://img.shields.io/badge/Semantic_Search-2E7D6B?style=for-the-badge&logoColor=Gold" alt="Semantic Search"/>
+<img src="https://img.shields.io/badge/Embeddings-2E7D6B?style=for-the-badge&logoColor=Red" alt="Embeddings"/>
+<img src="https://img.shields.io/badge/Reranking-2E7D6B?style=for-the-badge&logoColor=Orange" alt="Reranking"/>
 
 **Data Engineering & Search**
 <br/>
