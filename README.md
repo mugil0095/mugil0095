@@ -85,12 +85,12 @@ I'm a Computer Science & Engineering graduate working as a Data Scientist, focus
 <tr>
 <td valign="top">
 
-**🛡️ [VerityRAG](https://github.com/mugil0095/Verity-RAG)** — *Real-time agentic RAG with grounding & hallucination detection*
+**🛡️ [VerityRAG](https://github.com/mugil0095/Verity-RAG)** — *Real-time agentic RAG with grounding & hallucination detection* [Live Link](https://verityrag.streamlit.app/)
 <br/><br/>
 Ingests documents continuously and answers through a bounded multi-hop retrieval agent that **refuses to answer rather than hallucinate** when it lacks grounded evidence — verified on a real SQuAD-derived corpus, not a toy example.
 <br/><br/>
 🎯 96% coverage on answerable questions · 73%+ correctly refused on out-of-domain questions (the hallucination guard) &nbsp;|&nbsp; 🔁 Hybrid BM25 + dense retrieval with a LightGBM reranker and query reformulation &nbsp;|&nbsp; ⚡ p50 ~150ms latency &nbsp;|&nbsp; ✅ 58 tests, CI pipeline, FastAPI + Streamlit interfaces
-<br/><br/> [Live Link](https://verityrag.streamlit.app/)
+<br/><br/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/LightGBM-2E7D6B?style=flat-square" alt="LightGBM"/>
