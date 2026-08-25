@@ -19,7 +19,7 @@
 
 I'm a Computer Science & Engineering graduate working as a Data Scientist, focused on the retrieval layer of applied NLP — semantic search, ranking, and the RAG pipelines that sit behind AI assistants. I like turning messy, unstructured data into something a product can query reliably in real time.
 
-- 🔭 **Currently building:** [VerityRAG](https://github.com/mugil0095/Verity-RAG) — a real-time, agentic RAG system with built-in hallucination & grounding detection
+- 🔭 **Currently building:** [VerityRAG](https://github.com/mugil0095/Verity-RAG) — a real-time, agentic RAG system with built-in hallucination & grounding detection [Live Link](https://verityrag.streamlit.app/)
 - 💼 **Most recent role:** Data Scientist @ Udemy (Feb 2025 – Jan 2026) — multilingual (EN/JA) semantic search, Elasticsearch ranking, and RAG-tuned AI-assistant search
 - 🎯 **Actively looking for:** Data Scientist / ML Engineer / AI Engineer roles — open to hybrid & remote across India, and abroad with visa sponsorship
 - 💬 **Ask me about:** RAG pipelines, semantic search & embeddings, Elasticsearch ranking, or Airflow-orchestrated ETL
