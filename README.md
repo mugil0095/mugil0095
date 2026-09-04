@@ -158,7 +158,7 @@ A retrieval-based chatbot that answers natural-language questions directly from 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Public_Repos-20-2E7D6B?style=for-the-badge" alt="Public Repos"/>
+<img src="https://img.shields.io/badge/Public_Repos-15-2E7D6B?style=for-the-badge" alt="Public Repos"/>
 <img src="https://img.shields.io/badge/GitHub_Member_Since-2019-2E7D6B?style=for-the-badge" alt="Member Since 2019"/>
 <img src="https://img.shields.io/badge/Most_Used_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Most Used Language"/>
 
