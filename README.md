@@ -164,8 +164,6 @@ A retrieval-based chatbot that answers natural-language questions directly from 
 
 </div>
 
-**Language mix across repositories:** Python (58%) · HTML (21%) · Jupyter Notebook (16%) · JavaScript (5%)
-
 **Most-starred project:** [Realtime Drowsiness Detection](https://github.com/mugil0095/Realtime-Drowsiness-Identification-Based-on-Eye-State-Analysis) ⭐
 
 ---
