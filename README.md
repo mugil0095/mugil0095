@@ -29,6 +29,20 @@ I'm a Computer Science & Engineering graduate and Data Scientist, focused on the
 
 ---
 
+### ✨ Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Grounded_Answers-96%25-2E7D6B?style=for-the-badge" alt="Grounded_Answers 96%25"/>
+<img src="https://img.shields.io/badge/Hallucination_Refusals-73%25%2B-2E7D6B?style=for-the-badge" alt="Hallucination_Refusals 73%25%2B"/>
+<img src="https://img.shields.io/badge/p50_Latency-~150ms-2E7D6B?style=for-the-badge" alt="p50_Latency ~150ms"/>
+<img src="https://img.shields.io/badge/Tests-58_passing-2E7D6B?style=for-the-badge" alt="Tests 58_passing"/>
+<img src="https://img.shields.io/badge/Languages_Supported-EN_%C2%B7_JA-2E7D6B?style=for-the-badge" alt="Languages_Supported EN_%C2%B7_JA"/>
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -118,7 +132,7 @@ Ingests documents continuously and answers through a bounded multi-hop retrieval
 <tr>
 <td width="50%" valign="top">
 
-**🧭 [tiebreak](https://github.com/mugil0095/tiebreak)**
+**🧭 [tiebreak](https://github.com/mugil0095/tiebreak)** &nbsp;·&nbsp; [🌐 Live](https://mugil0095.github.io/tiebreak/)
 <br/>
 Compares hosted LLMs, local LLMs (Ollama) and scikit-learn models on your labelled data, then recommends the cheapest one statistically tied with the best (paired bootstrap + Holm correction, offline report).
 <br/>
@@ -224,12 +238,16 @@ A retrieval-based chatbot that answers natural-language questions directly from 
 
 ### 🎓 Certifications
 
-- Google Cloud — Generative AI
-- Supervised Machine Learning: Regression and Classification
-- IBM — AI Fundamentals
-- Cisco — Python Essentials
-- Python Nanodegree
-- SQL — Basic, Intermediate & Advanced
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google_Cloud-Generative_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google_Cloud Generative_AI"/>
+<img src="https://img.shields.io/badge/Coursera-Supervised_ML-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Supervised_ML"/>
+<img src="https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI_Fundamentals"/>
+<img src="https://img.shields.io/badge/Cisco-Python_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Python_Essentials"/>
+<img src="https://img.shields.io/badge/Python-Nanodegree-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Nanodegree"/>
+<img src="https://img.shields.io/badge/SQL-Basic_to_Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Basic_to_Advanced"/>
+
+</div>
 
 ---
 
