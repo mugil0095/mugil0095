@@ -3,7 +3,6 @@
 <img src=".github/header-banner.svg" width="100%" alt="Ilamugil Balasubramaniam, Data Scientist, NLP, Search and RAG Systems"/>
 
 <a href="https://www.linkedin.com/in/ilamugil-balasubramaniam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://mugil0095.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2E7D6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/mugil0095"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://komarev.com/ghpvc/?username=mugil0095&style=for-the-badge&color=2E7D6B&label=PROFILE+VIEWS" alt="profile views"/>
 
@@ -25,12 +24,6 @@ I'm a Computer Science & Engineering graduate and Data Scientist, focused on the
 
 <img src=".github/divider.svg" width="100%" alt=""/>
 
-### 🔎 How I Build Retrieval
-
-<img src=".github/principles.svg" width="100%" alt="Four principles with the work that shows them. 1: hybrid, not just vectors (Udemy, VerityRAG). 2: rank, then rerank (Udemy, VerityRAG). 3: measure on real data (VerityRAG, tiebreak). 4: refuse over hallucinate (VerityRAG)."/>
-
-<img src=".github/divider.svg" width="100%" alt=""/>
-
 ### 💡 Featured Projects
 
 <div align="center">
@@ -39,7 +32,7 @@ I'm a Computer Science & Engineering graduate and Data Scientist, focused on the
 
 <a href="https://github.com/mugil0095/tiebreak"><img src=".github/card-tiebreak.svg" width="49%" alt="tiebreak: finds the cheapest model that is statistically tied with the best on your own data"/></a>
 <a href="https://github.com/mugil0095/ai-travel-planner"><img src=".github/card-travel.svg" width="49%" alt="AI Travel Planner: multi-agent LangGraph planner with human review"/></a>
-<a href="https://github.com/mugil0095/callio"><img src=".github/card-callio.svg" width="49%" alt="Callio: resume and LinkedIn review with job-description matching and cover letters"/></a>
+<img src=".github/card-callio.svg" width="49%" alt="Callio: resume and LinkedIn review with job-description matching and cover letters"/>
 <a href="https://github.com/mugil0095/Realtime-Drowsiness-Identification-Based-on-Eye-State-Analysis"><img src=".github/card-drowsiness.svg" width="49%" alt="Realtime drowsiness detection from eye state, most starred project"/></a>
 
 🌐 **Live:** [VerityRAG demo](https://verityrag.streamlit.app/) &nbsp;·&nbsp; [tiebreak site](https://mugil0095.github.io/tiebreak/)
@@ -117,7 +110,6 @@ I'm a Computer Science & Engineering graduate and Data Scientist, focused on the
 ### 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/ilamugil-balasubramaniam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://mugil0095.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2E7D6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/mugil0095"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <img src=".github/footer-banner.svg" width="100%" alt="footer banner"/>
