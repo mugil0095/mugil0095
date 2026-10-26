@@ -44,7 +44,7 @@ def write_stats(user, repos):
         "font-family=\"'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif\">",
         '<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1626"/>'
         '<stop offset="1" stop-color="#12324a"/></linearGradient></defs>',
-        '<rect x="1" y="1" width="898" height="224" rx="18" fill="url(#bg)" stroke="#7fe0c8" stroke-opacity="0.25"/>',
+        '<rect x="1" y="1" width="898" height="224" rx="18" fill="#0A1311" stroke="rgba(255,255,255,0.12)"/>',
         '<g transform="translate(24,20)">',
         '<text x="0" y="12" font-size="10.5" font-family="Consolas, Menlo, monospace" fill="#7fe0c8" letter-spacing="3">LIVE FROM GITHUB</text>',
         '<circle cx="148" cy="8.5" r="3.5" fill="#7fe0c8"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>',
@@ -52,8 +52,7 @@ def write_stats(user, repos):
     for i, (big, label) in enumerate(tiles):
         x = i * 219
         out.append(
-            f'<rect x="{x}" y="28" width="195" height="92" rx="16" fill="#fff" fill-opacity="0.05" stroke="{palette[i]}" stroke-opacity="0.45"/>'
-            f'<rect x="{x}" y="48" width="4" height="30" rx="2" fill="{palette[i]}"/>'
+            f'<rect x="{x}" y="28" width="195" height="92" rx="16" fill="#101C19" stroke="rgba(255,255,255,0.12)"/>'
             f'<text x="{x+22}" y="78" font-size="30" font-weight="700" fill="#fff">{big}</text>'
             f'<text x="{x+22}" y="102" font-size="12" fill="#9fb8b2">{label}</text>'
         )

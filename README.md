@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/header-banner.svg" width="100%" alt="Ilamugil Balasubramaniam, Data Scientist, NLP, Search and RAG Systems"/>
+<img src=".github/header-banner.svg" width="100%" alt="Ilamugil Balasubramaniam. Data Scientist focused on NLP, search and RAG systems. Open to Data Scientist, ML and AI Engineer roles. EN/JA semantic search at Udemy, 96% of answerable questions covered, 73%+ of out-of-domain questions refused, about 150 ms p50 latency."/>
 
 <a href="https://www.linkedin.com/in/ilamugil-balasubramaniam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/mugil0095"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -8,11 +8,7 @@
 
 <a href="https://github.com/mugil0095"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&height=36&duration=3000&pause=1000&color=2E7D6B&center=true&vCenter=true&width=700&lines=Agentic+RAG+%26+hallucination+guards;Picking+the+cheapest+model+that+ties+the+best;Multi-agent+workflows+with+humans+in+the+loop;Semantic+search+%26+ranking+at+scale" alt="typing intro"/></a>
 
-**Building agentic RAG & LLM-evaluation systems** &nbsp;·&nbsp; Semantic Search &nbsp;·&nbsp; Multi-Agent Workflows &nbsp;·&nbsp; Embeddings
-<br/>
-🎯 Open to Data Scientist / ML Engineer / AI Engineer roles
-
-<a href="#-about-me">About</a> &nbsp;·&nbsp; <a href="#-featured-projects">Projects</a> &nbsp;·&nbsp; <a href="#-tech-stack">Stack</a> &nbsp;·&nbsp; <a href="#-journey">Journey</a> &nbsp;·&nbsp; <a href="#-recent-activity">Activity</a> &nbsp;·&nbsp; <a href="#-certifications">Certifications</a>
+<a href="#-about-me">About</a> &nbsp;·&nbsp; <a href="#-featured-projects">Projects</a> &nbsp;·&nbsp; <a href="#-stack--journey">Stack</a> &nbsp;·&nbsp; <a href="#-recent-activity">Activity</a> &nbsp;·&nbsp; <a href="#-certifications">Certifications</a>
 
 </div>
 
@@ -32,18 +28,13 @@ I'm a Computer Science & Engineering graduate and Data Scientist, focused on the
 
 <a href="https://github.com/mugil0095/Verity-RAG"><img src=".github/card-verity.svg" width="100%" alt="VerityRAG: real-time agentic RAG with grounding and hallucination detection. 96% of answerable questions covered, 73%+ of out-of-domain questions refused, p50 latency about 150 ms, 58 tests."/></a>
 
-<a href="https://github.com/mugil0095/tiebreak"><img src=".github/card-tiebreak.svg" width="49%" alt="tiebreak: finds the cheapest model that is statistically tied with the best on your own data"/></a>
-<a href="https://github.com/mugil0095/ai-travel-planner"><img src=".github/card-travel.svg" width="49%" alt="AI Travel Planner: multi-agent LangGraph planner with human review"/></a>
-<img src=".github/card-callio.svg" width="49%" alt="Callio: resume and LinkedIn review with job-description matching and cover letters"/>
-<a href="https://github.com/mugil0095/Realtime-Drowsiness-Identification-Based-on-Eye-State-Analysis"><img src=".github/card-drowsiness.svg" width="49%" alt="Realtime drowsiness detection from eye state, most starred project"/></a>
+<a href="https://github.com/mugil0095/tiebreak"><img src=".github/card-tiebreak.svg" width="100%" alt="tiebreak: finds the cheapest model that is statistically tied with the best on your own data"/></a>
+
+<a href="https://github.com/mugil0095/ai-travel-planner"><img src=".github/card-travel.svg" width="32%" alt="AI Travel Planner: multi-agent LangGraph planner with human review"/></a>
+<img src=".github/card-callio.svg" width="32%" alt="Callio: resume and LinkedIn review with job-description matching and cover letters"/>
+<a href="https://github.com/mugil0095/Realtime-Drowsiness-Identification-Based-on-Eye-State-Analysis"><img src=".github/card-drowsiness.svg" width="32%" alt="Realtime drowsiness detection from eye state, most starred project"/></a>
 
 🌐 **Live:** [VerityRAG demo](https://verityrag.streamlit.app/) &nbsp;·&nbsp; [tiebreak site](https://mugil0095.github.io/tiebreak/)
-
-<br/>
-
-<a href="https://github.com/mugil0095/tiebreak"><img src="https://raw.githubusercontent.com/mugil0095/tiebreak/master/docs/assets/real-run.png" width="82%" alt="A real tiebreak run on 3-class sentiment with 300 labelled rows: a logistic regression (macro-F1 0.845) is statistically tied with Gemini 3.5 Flash Lite (0.825) at $0.000014 versus $0.13 per 10,000 predictions."/></a>
-
-<sub>A real tiebreak run: one task and one sample, so an example of the output, not a claim that classic ML beats LLMs in general.</sub>
 
 </div>
 
@@ -58,15 +49,9 @@ I'm a Computer Science & Engineering graduate and Data Scientist, focused on the
 
 <img src=".github/divider.svg" width="100%" alt=""/>
 
-### 🧰 Tech Stack
+### 🧰 Stack & Journey
 
-<img src=".github/stack.svg" width="100%" alt="Tech stack. Languages: Python, SQL. Data science and ML: NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, Keras, LightGBM, AWS SageMaker. GenAI, NLP and LLMs: HuggingFace, RAG, LLM evaluation, semantic search, embeddings, reranking, LangGraph, multi-agent systems, Gemini, Ollama. Search and data engineering: Elasticsearch, Airflow, Databricks, ETL. Backend: FastAPI, Django, React, SQLite, GitHub Actions."/>
-
-<img src=".github/divider.svg" width="100%" alt=""/>
-
-### 🧭 Journey
-
-<img src=".github/journey.svg" width="100%" alt="Timeline: 2024 foundations, Feb 2025 to Jan 2026 Data Scientist at Udemy, 2026 onward shipping end to end"/>
+<img src=".github/stack.svg" width="100%" alt="Stack and journey. Languages: Python, SQL. Data science and ML: NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, Keras, LightGBM, AWS SageMaker. GenAI, NLP and LLMs: HuggingFace, RAG, LLM evaluation, semantic search, embeddings, reranking, LangGraph, multi-agent systems, Gemini, Ollama. Search and data engineering: Elasticsearch, Airflow, Databricks, ETL. Backend: FastAPI, Django, React, SQLite, GitHub Actions. Journey: 2024 foundations, Feb 2025 to Jan 2026 Data Scientist at Udemy, 2026 onward shipping end to end."/>
 
 <img src=".github/divider.svg" width="100%" alt=""/>
 
