@@ -7,7 +7,7 @@
 <a href="https://github.com/mugil0095"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://komarev.com/ghpvc/?username=mugil0095&style=for-the-badge&color=2E7D6B&label=PROFILE+VIEWS" alt="profile views"/>
 
-**Building real-time Agentic RAG systems** &nbsp;·&nbsp; Semantic Search &nbsp;·&nbsp; Elasticsearch &nbsp;·&nbsp; Embeddings
+**Building agentic RAG & LLM-evaluation systems** &nbsp;·&nbsp; Semantic Search &nbsp;·&nbsp; Multi-Agent Workflows &nbsp;·&nbsp; Embeddings
 <br/>
 🎯 Open to Data Scientist / ML Engineer / AI Engineer roles
 
@@ -17,9 +17,9 @@
 
 ### 👋 About Me
 
-I'm a Computer Science & Engineering graduate working as a Data Scientist, focused on the retrieval layer of applied NLP — semantic search, ranking, and the RAG pipelines that sit behind AI assistants. I like turning messy, unstructured data into something a product can query reliably in real time. Currently, building an AI-powered ATS resume and LinkedIn Profile Builder 
+I'm a Computer Science & Engineering graduate and Data Scientist, focused on the retrieval layer of applied NLP — semantic search, ranking, and the RAG pipelines that sit behind AI assistants. I like turning messy, unstructured data into something a product can query reliably in real time. Right now I'm building and shipping end-to-end AI projects: model-selection tooling, multi-agent planners, and an AI resume & LinkedIn reviewer.
 
-- 🔭 **Currently building:** [VerityRAG](https://github.com/mugil0095/Verity-RAG) — a real-time, agentic RAG system with built-in hallucination & grounding detection [Live Link](https://verityrag.streamlit.app/)
+- 🔭 **Currently building:** [tiebreak](https://github.com/mugil0095/tiebreak) — finds the cheapest model that is statistically tied with the best on your own data (hosted LLMs, Ollama, scikit-learn) [Live Link](https://mugil0095.github.io/tiebreak/) · also [Callio](https://github.com/mugil0095/callio) (resume & LinkedIn review) and [VerityRAG](https://github.com/mugil0095/Verity-RAG)
 - 💼 **Most recent role:** Data Scientist @ Udemy (Feb 2025 – Jan 2026) — multilingual (EN/JA) semantic search, Elasticsearch ranking, and RAG-tuned AI-assistant search
 - 🎯 **Actively looking for:** Data Scientist / ML Engineer / AI Engineer roles — open to hybrid & remote across India and abroad with visa sponsorship
 - 💬 **Ask me about:** RAG pipelines, semantic search & embeddings, Elasticsearch ranking, or Airflow-orchestrated ETL
@@ -56,6 +56,10 @@ I'm a Computer Science & Engineering graduate working as a Data Scientist, focus
 <img src="https://img.shields.io/badge/NLP-2E7D6B?style=for-the-badge&logoColor=yellow" alt="NLP"/>
 <img src="https://img.shields.io/badge/RAG-2E7D6B?style=for-the-badge&logoColor=green" alt="RAG"/>
 <img src="https://img.shields.io/badge/LLM_Evaluation-2E7D6B?style=for-the-badge&logoColor=black" alt="LLM Evaluation"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-2E7D6B?style=for-the-badge" alt="Multi-Agent Systems"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
 <img src="https://img.shields.io/badge/Semantic_Search-2E7D6B?style=for-the-badge&logoColor=Gold" alt="Semantic Search"/>
 <img src="https://img.shields.io/badge/Embeddings-2E7D6B?style=for-the-badge&logoColor=Red" alt="Embeddings"/>
 <img src="https://img.shields.io/badge/Reranking-2E7D6B?style=for-the-badge&logoColor=Orange" alt="Reranking"/>
@@ -66,6 +70,14 @@ I'm a Computer Science & Engineering graduate working as a Data Scientist, focus
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
 <img src="https://img.shields.io/badge/ETL-2E7D6B?style=for-the-badge" alt="ETL"/>
+
+**Backend & APIs**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub_Actions"/>
 
 **Tools**
 <br/>
@@ -94,6 +106,42 @@ Ingests documents continuously and answers through a bounded multi-hop retrieval
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/LightGBM-2E7D6B?style=flat-square" alt="LightGBM"/>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧭 [tiebreak](https://github.com/mugil0095/tiebreak)**
+<br/>
+Compares hosted LLMs, local LLMs (Ollama) and scikit-learn models on your labelled data, then recommends the cheapest one statistically tied with the best (paired bootstrap + Holm correction, offline report).
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+
+</td>
+<td width="50%" valign="top">
+
+**🗺️ [AI Travel Planner](https://github.com/mugil0095/ai-travel-planner)**
+<br/>
+Multi-agent planner: LangGraph orchestrator, research + itinerary agents, human-in-the-loop review, SQLite checkpoints, FastAPI.
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📝 [Callio](https://github.com/mugil0095/callio)**
+<br/>
+Resume and LinkedIn review with rule-traceable scores, job-description matching (fine-tuned multilingual-e5) and cover letters.
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
 
 </td>
 </tr>
