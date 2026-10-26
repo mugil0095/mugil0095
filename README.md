@@ -12,7 +12,7 @@
 <br/>
 🎯 Open to Data Scientist / ML Engineer / AI Engineer roles
 
-<a href="#-about-me">About</a> &nbsp;·&nbsp; <a href="#-featured-projects">Projects</a> &nbsp;·&nbsp; <a href="#-under-the-hood">Under the Hood</a> &nbsp;·&nbsp; <a href="#-tech-stack">Stack</a> &nbsp;·&nbsp; <a href="#-journey">Journey</a> &nbsp;·&nbsp; <a href="#-recent-activity">Activity</a> &nbsp;·&nbsp; <a href="#-certifications">Certifications</a>
+<a href="#-about-me">About</a> &nbsp;·&nbsp; <a href="#-featured-projects">Projects</a> &nbsp;·&nbsp; <a href="#-tech-stack">Stack</a> &nbsp;·&nbsp; <a href="#-journey">Journey</a> &nbsp;·&nbsp; <a href="#-recent-activity">Activity</a> &nbsp;·&nbsp; <a href="#-certifications">Certifications</a>
 
 </div>
 
@@ -39,6 +39,12 @@ I'm a Computer Science & Engineering graduate and Data Scientist, focused on the
 
 🌐 **Live:** [VerityRAG demo](https://verityrag.streamlit.app/) &nbsp;·&nbsp; [tiebreak site](https://mugil0095.github.io/tiebreak/)
 
+<br/>
+
+<a href="https://github.com/mugil0095/tiebreak"><img src="https://raw.githubusercontent.com/mugil0095/tiebreak/master/docs/assets/real-run.png" width="82%" alt="A real tiebreak run on 3-class sentiment with 300 labelled rows: a logistic regression (macro-F1 0.845) is statistically tied with Gemini 3.5 Flash Lite (0.825) at $0.000014 versus $0.13 per 10,000 predictions."/></a>
+
+<sub>A real tiebreak run: one task and one sample, so an example of the output, not a claim that classic ML beats LLMs in general.</sub>
+
 </div>
 
 <details>
@@ -47,80 +53,6 @@ I'm a Computer Science & Engineering graduate and Data Scientist, focused on the
 - 🤖 [ATS Resume Analyzer — Gemini](https://github.com/mugil0095/ATS-Optimized-Resume-Analyzer-using-Gemini-Model) — scores resumes for ATS compatibility with Google's Gemini model and suggests targeted improvements.
 - 🩺 [Gesture-Based Sterile Radiology Browser](https://github.com/mugil0095/A-Gesture-Based-Tool-For-Sterile-Browsing-Of-Radiology-Images) — touchless, gesture-controlled browsing of radiology images for sterile settings.
 - 📄 [PDF Chatbot](https://github.com/mugil0095/PDF-Chatbot) — retrieval-based chatbot that answers questions directly from uploaded PDFs.
-
-</details>
-
-<img src=".github/divider.svg" width="100%" alt=""/>
-
-### 🧩 Under the Hood
-
-<sub>Architecture diagrams taken from each project's own README. Click to expand.</sub>
-
-<details>
-<summary><b>VerityRAG</b> — ingestion, agentic query loop and abstain gates</summary>
-
-```mermaid
-flowchart TB
-    subgraph ingest["Real-Time Ingestion"]
-        stream["LiveDocumentStream\n(background thread)"] --> chunk["chunking.py"]
-        bulk["bulk loader\n(initial corpus)"] --> chunk
-        chunk --> embed["HashingEmbedder\n(stateless, streaming-safe)"]
-        embed --> index[("LiveIndex\ndense vectors + BM25")]
-    end
-
-    subgraph query["Agentic Query Loop"]
-        q["question"] --> retrieve["Hybrid Retrieval\nBM25 + cosine"]
-        index -.read.-> retrieve
-        retrieve --> rerank["LightGBM Reranker\n(ICT weak supervision)"]
-        rerank --> gate{{"Sufficiency Gate\n(calibrated classifier)"}}
-        gate -- "insufficient,\nsome signal\n(up to 2 retries)" --> reformulate["Query Reformulation"]
-        reformulate --> retrieve
-        gate -- "insufficient,\nno signal or\nout of retries" --> abstain1(["ABSTAIN\nsufficiency"])
-        gate -- sufficient --> ans{{"Answerability Gate\n(opt-in, learned)"}}
-        ans -- "can't answer" --> abstain3(["ABSTAIN\nanswerability"])
-        ans -- answerable --> generate["Answer Generator\n(extractive / pluggable LLM)"]
-        generate --> ground["Grounding Checker\n(claim decomposition)"]
-        ground -- "below threshold" --> abstain2(["ABSTAIN\ngrounding"])
-        ground -- grounded --> vg{{"Verity-Guard\n(opt-in, learned)"}}
-        vg -- unsupported --> abstain4(["ABSTAIN\nguard"])
-        vg -- "supported or\nuncertain" --> answer(["Answer +\ngrounding report"])
-    end
-
-    classDef opt stroke:#7c3aed,stroke-width:2px,stroke-dasharray: 5 5
-    class ans,vg opt
-```
-
-</details>
-
-<details>
-<summary><b>tiebreak</b> — from your labelled sample to a statistical recommendation</summary>
-
-```mermaid
-flowchart LR
-    D["Your labelled sample<br>(CSV / JSONL)"] --> R["Run every candidate<br>LLM · Ollama · scikit-learn"]
-    R --> S["Score, cost, latency<br>95% confidence intervals"]
-    S --> T{"Statistically tied<br>with the best?"}
-    T -- yes --> W["Recommend the cheapest<br>tied model"]
-    T -- "data cannot tell" --> N["Say so + how many<br>more labels are needed"]
-    W --> H["Offline report.html"]
-    N --> H
-```
-
-</details>
-
-<details>
-<summary><b>AI Travel Planner</b> — orchestrated agents with a human review pause</summary>
-
-```mermaid
-flowchart LR
-    A([POST /plan]) --> V[validate] --> R[research<br/>Research Agent] --> P[plan<br/>Planner Agent]
-    P -- over budget, once --> P
-    P --> H{{review<br/>human}}
-    H -- approve --> F[finalize] --> Z([GET /final])
-    H -- reject: new info --> R
-    H -- reject: arrangement --> P
-    H -- modify --> M[modify] --> H
-```
 
 </details>
 
