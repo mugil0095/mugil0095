@@ -1,18 +1,21 @@
 <div align="center">
 
-<img src=".github/header-banner.svg" width="100%" alt="header banner"/>
+<img src=".github/header-banner.svg" width="100%" alt="Ilamugil Balasubramaniam, Data Scientist, NLP, Search and RAG Systems"/>
 
 <a href="https://www.linkedin.com/in/ilamugil-balasubramaniam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://mugil0095.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2E7D6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/mugil0095"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://komarev.com/ghpvc/?username=mugil0095&style=for-the-badge&color=2E7D6B&label=PROFILE+VIEWS" alt="profile views"/>
 
-<a href="https://github.com/mugil0095"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2E7D6B&center=true&vCenter=true&width=700&lines=Agentic+RAG+%26+hallucination+guards;Picking+the+cheapest+model+that+ties+the+best;Multi-agent+workflows+with+humans+in+the+loop;Semantic+search+%26+ranking+at+scale" alt="typing intro"/></a>
-<br/><br/>
+<a href="https://github.com/mugil0095"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&height=36&duration=3000&pause=1000&color=2E7D6B&center=true&vCenter=true&width=700&lines=Agentic+RAG+%26+hallucination+guards;Picking+the+cheapest+model+that+ties+the+best;Multi-agent+workflows+with+humans+in+the+loop;Semantic+search+%26+ranking+at+scale" alt="typing intro"/></a>
 
 **Building agentic RAG & LLM-evaluation systems** &nbsp;·&nbsp; Semantic Search &nbsp;·&nbsp; Multi-Agent Workflows &nbsp;·&nbsp; Embeddings
 <br/>
 🎯 Open to Data Scientist / ML Engineer / AI Engineer roles
+
+<br/>
+
+<img src=".github/pipeline.svg" width="100%" alt="How I build retrieval: query, embed, retrieve with BM25 and dense vectors, rerank, ground check, then answer or refuse"/>
 
 </div>
 
@@ -22,190 +25,45 @@
 
 I'm a Computer Science & Engineering graduate and Data Scientist, focused on the retrieval layer of applied NLP — semantic search, ranking, and the RAG pipelines that sit behind AI assistants. I like turning messy, unstructured data into something a product can query reliably in real time. Right now I'm building and shipping end-to-end AI projects: model-selection tooling, multi-agent planners, and an AI resume & LinkedIn reviewer.
 
-- 🔭 **Currently building:** [tiebreak](https://github.com/mugil0095/tiebreak) — finds the cheapest model that is statistically tied with the best on your own data (hosted LLMs, Ollama, scikit-learn) [Live Link](https://mugil0095.github.io/tiebreak/) · also [Callio](https://github.com/mugil0095/callio) (resume & LinkedIn review) and [VerityRAG](https://github.com/mugil0095/Verity-RAG)
-- 💼 **Most recent role:** Data Scientist @ Udemy (Feb 2025 – Jan 2026) — multilingual (EN/JA) semantic search, Elasticsearch ranking, and RAG-tuned AI-assistant search
-- 🎯 **Actively looking for:** Data Scientist / ML Engineer / AI Engineer roles — open to hybrid & remote across India and abroad with visa sponsorship
-- 💬 **Ask me about:** RAG pipelines, semantic search & embeddings, Elasticsearch ranking, or Airflow-orchestrated ETL
-
-<img src=".github/divider.svg" width="100%" alt=""/>
-
-### ✨ Highlights
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Grounded_Answers-96%25-2E7D6B?style=for-the-badge" alt="Grounded_Answers 96%25"/>
-<img src="https://img.shields.io/badge/Hallucination_Refusals-73%25%2B-2E7D6B?style=for-the-badge" alt="Hallucination_Refusals 73%25%2B"/>
-<img src="https://img.shields.io/badge/p50_Latency-~150ms-2E7D6B?style=for-the-badge" alt="p50_Latency ~150ms"/>
-<img src="https://img.shields.io/badge/Tests-58_passing-2E7D6B?style=for-the-badge" alt="Tests 58_passing"/>
-<img src="https://img.shields.io/badge/Languages_Supported-EN_%C2%B7_JA-2E7D6B?style=for-the-badge" alt="Languages_Supported EN_%C2%B7_JA"/>
-
-</div>
-
-<img src=".github/divider.svg" width="100%" alt=""/>
-
-### 🛠️ Tech Stack
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
-
-**Data Science & ML**
-<br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-<img src="https://img.shields.io/badge/LightGBM-2E7D6B?style=for-the-badge" alt="LightGBM"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SageMaker"/>
-<img src="https://img.shields.io/badge/Regression-2E7D6B?style=for-the-badge" alt="Regression"/>
-<img src="https://img.shields.io/badge/Supervised_%26_Unsupervised_Learning-2E7D6B?style=for-the-badge" alt="Supervised & Unsupervised Learning"/>
-<img src="https://img.shields.io/badge/A%2FB_Testing-2E7D6B?style=for-the-badge" alt="A/B Testing"/>
-
-**GenAI, NLP & LLM Systems**
-<br/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Transformers"/>
-<img src="https://img.shields.io/badge/GenAI-2E7D6B?style=for-the-badge&logoColor=Blue" alt="GenAI"/>
-<img src="https://img.shields.io/badge/NLP-2E7D6B?style=for-the-badge&logoColor=yellow" alt="NLP"/>
-<img src="https://img.shields.io/badge/RAG-2E7D6B?style=for-the-badge&logoColor=green" alt="RAG"/>
-<img src="https://img.shields.io/badge/LLM_Evaluation-2E7D6B?style=for-the-badge&logoColor=black" alt="LLM Evaluation"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-2E7D6B?style=for-the-badge" alt="Multi-Agent Systems"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/Semantic_Search-2E7D6B?style=for-the-badge&logoColor=Gold" alt="Semantic Search"/>
-<img src="https://img.shields.io/badge/Embeddings-2E7D6B?style=for-the-badge&logoColor=Red" alt="Embeddings"/>
-<img src="https://img.shields.io/badge/Reranking-2E7D6B?style=for-the-badge&logoColor=Orange" alt="Reranking"/>
-
-**Data Engineering & Search**
-<br/>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-<img src="https://img.shields.io/badge/ETL-2E7D6B?style=for-the-badge" alt="ETL"/>
-
-**Backend & APIs**
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub_Actions"/>
-
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+<img src=".github/now.svg" width="100%" alt="Building tiebreak, Callio and VerityRAG. Open to Data Scientist, ML and AI Engineer roles, hybrid and remote, with visa sponsorship. Ask me about RAG, semantic search, embeddings, Elasticsearch ranking and Airflow ETL."/>
 
 <img src=".github/divider.svg" width="100%" alt=""/>
 
 ### 💡 Featured Projects
 
-<table>
-<tr>
-<td valign="top">
+<div align="center">
 
-**🛡️ [VerityRAG](https://github.com/mugil0095/Verity-RAG)** — *Real-time agentic RAG with grounding & hallucination detection* [Live Link](https://verityrag.streamlit.app/)
-<br/><br/>
-Ingests documents continuously and answers through a bounded multi-hop retrieval agent that **refuses to answer rather than hallucinate** when it lacks grounded evidence — verified on a real SQuAD-derived corpus, not a toy example.
-<br/><br/>
-🎯 96% coverage on answerable questions · 73%+ correctly refused on out-of-domain questions (the hallucination guard) &nbsp;|&nbsp; 🔁 Hybrid BM25 + dense retrieval with a LightGBM reranker and query reformulation &nbsp;|&nbsp; ⚡ p50 ~150ms latency &nbsp;|&nbsp; ✅ 58 tests, CI pipeline, FastAPI + Streamlit interfaces
-<br/><br/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/LightGBM-2E7D6B?style=flat-square" alt="LightGBM"/>
+<a href="https://github.com/mugil0095/Verity-RAG"><img src=".github/card-verity.svg" width="100%" alt="VerityRAG: real-time agentic RAG with grounding and hallucination detection. 96% of answerable questions covered, 73%+ of out-of-domain questions refused, p50 latency about 150 ms, 58 tests."/></a>
 
-</td>
-</tr>
-</table>
+<a href="https://github.com/mugil0095/tiebreak"><img src=".github/card-tiebreak.svg" width="49%" alt="tiebreak: finds the cheapest model that is statistically tied with the best on your own data"/></a>
+<a href="https://github.com/mugil0095/ai-travel-planner"><img src=".github/card-travel.svg" width="49%" alt="AI Travel Planner: multi-agent LangGraph planner with human review"/></a>
+<a href="https://github.com/mugil0095/callio"><img src=".github/card-callio.svg" width="49%" alt="Callio: resume and LinkedIn review with job-description matching and cover letters"/></a>
+<a href="https://github.com/mugil0095/Realtime-Drowsiness-Identification-Based-on-Eye-State-Analysis"><img src=".github/card-drowsiness.svg" width="49%" alt="Realtime drowsiness detection from eye state, most starred project"/></a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+🌐 **Live:** [VerityRAG demo](https://verityrag.streamlit.app/) &nbsp;·&nbsp; [tiebreak site](https://mugil0095.github.io/tiebreak/)
 
-**🧭 [tiebreak](https://github.com/mugil0095/tiebreak)** &nbsp;·&nbsp; [🌐 Live](https://mugil0095.github.io/tiebreak/)
-<br/>
-Compares hosted LLMs, local LLMs (Ollama) and scikit-learn models on your labelled data, then recommends the cheapest one statistically tied with the best (paired bootstrap + Holm correction, offline report).
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+</div>
 
-</td>
-<td width="50%" valign="top">
+<details>
+<summary><b>More projects</b></summary>
 
-**🗺️ [AI Travel Planner](https://github.com/mugil0095/ai-travel-planner)**
-<br/>
-Multi-agent planner: LangGraph orchestrator, research + itinerary agents, human-in-the-loop review, SQLite checkpoints, FastAPI.
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+- 🤖 [ATS Resume Analyzer — Gemini](https://github.com/mugil0095/ATS-Optimized-Resume-Analyzer-using-Gemini-Model) — scores resumes for ATS compatibility with Google's Gemini model and suggests targeted improvements.
+- 🩺 [Gesture-Based Sterile Radiology Browser](https://github.com/mugil0095/A-Gesture-Based-Tool-For-Sterile-Browsing-Of-Radiology-Images) — touchless, gesture-controlled browsing of radiology images for sterile settings.
+- 📄 [PDF Chatbot](https://github.com/mugil0095/PDF-Chatbot) — retrieval-based chatbot that answers questions directly from uploaded PDFs.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</details>
 
-**📝 [Callio](https://github.com/mugil0095/callio)**
-<br/>
-Resume and LinkedIn review with rule-traceable scores, job-description matching (fine-tuned multilingual-e5) and cover letters.
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+<img src=".github/divider.svg" width="100%" alt=""/>
 
-</td>
-</tr>
-</table>
+### 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src=".github/stack.svg" width="100%" alt="Tech stack. Languages: Python, SQL. Data science and ML: NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, Keras, LightGBM, AWS SageMaker. GenAI, NLP and LLMs: HuggingFace, RAG, LLM evaluation, semantic search, embeddings, reranking, LangGraph, multi-agent systems, Gemini, Ollama. Search and data engineering: Elasticsearch, Airflow, Databricks, ETL. Backend: FastAPI, Django, React, SQLite, GitHub Actions."/>
 
-**👁️ [Realtime Drowsiness Detection](https://github.com/mugil0095/Realtime-Drowsiness-Identification-Based-on-Eye-State-Analysis)** ⭐
-<br/>
-Real-time driver-safety system that monitors eye state from live video to flag drowsiness with low-latency inference.
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src=".github/divider.svg" width="100%" alt=""/>
 
-</td>
-<td width="50%" valign="top">
+### 🧭 Journey
 
-**🤖 [ATS Resume Analyzer — Gemini](https://github.com/mugil0095/ATS-Optimized-Resume-Analyzer-using-Gemini-Model)**
-<br/>
-LLM-powered resume analyzer built on Google's Gemini model that scores resumes for ATS-compatibility and suggests targeted improvements.
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🩺 [Gesture-Based Sterile Radiology Browser](https://github.com/mugil0095/A-Gesture-Based-Tool-For-Sterile-Browsing-Of-Radiology-Images)**
-<br/>
-A touchless, gesture-controlled interface for browsing radiology images, letting clinicians navigate scans without breaking sterile technique.
-<br/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-
-</td>
-<td width="50%" valign="top">
-
-**📄 [PDF Chatbot](https://github.com/mugil0095/PDF-Chatbot)**
-<br/>
-A retrieval-based chatbot that answers natural-language questions directly from uploaded PDF documents.
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-
-</td>
-</tr>
-</table>
+<img src=".github/journey.svg" width="100%" alt="Timeline: 2024 foundations, Feb 2025 to Jan 2026 Data Scientist at Udemy, 2026 onward shipping end to end"/>
 
 <img src=".github/divider.svg" width="100%" alt=""/>
 
@@ -219,20 +77,21 @@ A retrieval-based chatbot that answers natural-language questions directly from 
 </picture>
 </div>
 
-### 📈 At a Glance
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Public_Repos-15-2E7D6B?style=for-the-badge" alt="Public Repos"/>
 <img src="https://img.shields.io/badge/GitHub_Member_Since-2019-2E7D6B?style=for-the-badge" alt="Member Since 2019"/>
 <img src="https://img.shields.io/badge/Most_Used_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Most Used Language"/>
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=mugil0095&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E7D6B&icon_color=2E7D6B&text_color=C9D1D9&hide=issues" height="160" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugil0095&layout=compact&hide_border=true&bg_color=0D1117&title_color=2E7D6B&text_color=C9D1D9" height="160" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mugil0095&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E7D6B&icon_color=2E7D6B&text_color=C9D1D9&hide=issues,contribs&hide_rank=true&disable_animations=true" height="160" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugil0095&layout=compact&hide=jupyter%20notebook,html,css,jinja&disable_animations=true&hide_border=true&bg_color=0D1117&title_color=2E7D6B&text_color=C9D1D9" height="160" alt="Top languages"/>
+
+<br/>
+
+**Most-starred project:** [Realtime Drowsiness Detection](https://github.com/mugil0095/Realtime-Drowsiness-Identification-Based-on-Eye-State-Analysis) ⭐
 
 </div>
 
-**Most-starred project:** [Realtime Drowsiness Detection](https://github.com/mugil0095/Realtime-Drowsiness-Identification-Based-on-Eye-State-Analysis) ⭐
 
 <img src=".github/divider.svg" width="100%" alt=""/>
 
