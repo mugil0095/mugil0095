@@ -16,7 +16,7 @@
 
 </div>
 
----
+<img src=".github/divider.svg" width="100%" alt=""/>
 
 ### 👋 About Me
 
@@ -27,7 +27,7 @@ I'm a Computer Science & Engineering graduate and Data Scientist, focused on the
 - 🎯 **Actively looking for:** Data Scientist / ML Engineer / AI Engineer roles — open to hybrid & remote across India and abroad with visa sponsorship
 - 💬 **Ask me about:** RAG pipelines, semantic search & embeddings, Elasticsearch ranking, or Airflow-orchestrated ETL
 
----
+<img src=".github/divider.svg" width="100%" alt=""/>
 
 ### ✨ Highlights
 
@@ -41,7 +41,7 @@ I'm a Computer Science & Engineering graduate and Data Scientist, focused on the
 
 </div>
 
----
+<img src=".github/divider.svg" width="100%" alt=""/>
 
 ### 🛠️ Tech Stack
 
@@ -106,7 +106,7 @@ I'm a Computer Science & Engineering graduate and Data Scientist, focused on the
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 
----
+<img src=".github/divider.svg" width="100%" alt=""/>
 
 ### 💡 Featured Projects
 
@@ -207,7 +207,7 @@ A retrieval-based chatbot that answers natural-language questions directly from 
 </tr>
 </table>
 
----
+<img src=".github/divider.svg" width="100%" alt=""/>
 
 ### 📊 GitHub Activity
 
@@ -234,7 +234,7 @@ A retrieval-based chatbot that answers natural-language questions directly from 
 
 **Most-starred project:** [Realtime Drowsiness Detection](https://github.com/mugil0095/Realtime-Drowsiness-Identification-Based-on-Eye-State-Analysis) ⭐
 
----
+<img src=".github/divider.svg" width="100%" alt=""/>
 
 ### 🎓 Certifications
 
@@ -249,7 +249,7 @@ A retrieval-based chatbot that answers natural-language questions directly from 
 
 </div>
 
----
+<img src=".github/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
