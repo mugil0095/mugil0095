@@ -12,6 +12,8 @@
 <br/>
 🎯 Open to Data Scientist / ML Engineer / AI Engineer roles
 
+<a href="#-about-me">About</a> &nbsp;·&nbsp; <a href="#-featured-projects">Projects</a> &nbsp;·&nbsp; <a href="#-under-the-hood">Under the Hood</a> &nbsp;·&nbsp; <a href="#-tech-stack">Stack</a> &nbsp;·&nbsp; <a href="#-journey">Journey</a> &nbsp;·&nbsp; <a href="#-recent-activity">Activity</a> &nbsp;·&nbsp; <a href="#-certifications">Certifications</a>
+
 </div>
 
 <img src=".github/divider.svg" width="100%" alt=""/>
@@ -50,7 +52,81 @@ I'm a Computer Science & Engineering graduate and Data Scientist, focused on the
 
 <img src=".github/divider.svg" width="100%" alt=""/>
 
-### 🛠️ Tech Stack
+### 🧩 Under the Hood
+
+<sub>Architecture diagrams taken from each project's own README. Click to expand.</sub>
+
+<details>
+<summary><b>VerityRAG</b> — ingestion, agentic query loop and abstain gates</summary>
+
+```mermaid
+flowchart TB
+    subgraph ingest["Real-Time Ingestion"]
+        stream["LiveDocumentStream\n(background thread)"] --> chunk["chunking.py"]
+        bulk["bulk loader\n(initial corpus)"] --> chunk
+        chunk --> embed["HashingEmbedder\n(stateless, streaming-safe)"]
+        embed --> index[("LiveIndex\ndense vectors + BM25")]
+    end
+
+    subgraph query["Agentic Query Loop"]
+        q["question"] --> retrieve["Hybrid Retrieval\nBM25 + cosine"]
+        index -.read.-> retrieve
+        retrieve --> rerank["LightGBM Reranker\n(ICT weak supervision)"]
+        rerank --> gate{{"Sufficiency Gate\n(calibrated classifier)"}}
+        gate -- "insufficient,\nsome signal\n(up to 2 retries)" --> reformulate["Query Reformulation"]
+        reformulate --> retrieve
+        gate -- "insufficient,\nno signal or\nout of retries" --> abstain1(["ABSTAIN\nsufficiency"])
+        gate -- sufficient --> ans{{"Answerability Gate\n(opt-in, learned)"}}
+        ans -- "can't answer" --> abstain3(["ABSTAIN\nanswerability"])
+        ans -- answerable --> generate["Answer Generator\n(extractive / pluggable LLM)"]
+        generate --> ground["Grounding Checker\n(claim decomposition)"]
+        ground -- "below threshold" --> abstain2(["ABSTAIN\ngrounding"])
+        ground -- grounded --> vg{{"Verity-Guard\n(opt-in, learned)"}}
+        vg -- unsupported --> abstain4(["ABSTAIN\nguard"])
+        vg -- "supported or\nuncertain" --> answer(["Answer +\ngrounding report"])
+    end
+
+    classDef opt stroke:#7c3aed,stroke-width:2px,stroke-dasharray: 5 5
+    class ans,vg opt
+```
+
+</details>
+
+<details>
+<summary><b>tiebreak</b> — from your labelled sample to a statistical recommendation</summary>
+
+```mermaid
+flowchart LR
+    D["Your labelled sample<br>(CSV / JSONL)"] --> R["Run every candidate<br>LLM · Ollama · scikit-learn"]
+    R --> S["Score, cost, latency<br>95% confidence intervals"]
+    S --> T{"Statistically tied<br>with the best?"}
+    T -- yes --> W["Recommend the cheapest<br>tied model"]
+    T -- "data cannot tell" --> N["Say so + how many<br>more labels are needed"]
+    W --> H["Offline report.html"]
+    N --> H
+```
+
+</details>
+
+<details>
+<summary><b>AI Travel Planner</b> — orchestrated agents with a human review pause</summary>
+
+```mermaid
+flowchart LR
+    A([POST /plan]) --> V[validate] --> R[research<br/>Research Agent] --> P[plan<br/>Planner Agent]
+    P -- over budget, once --> P
+    P --> H{{review<br/>human}}
+    H -- approve --> F[finalize] --> Z([GET /final])
+    H -- reject: new info --> R
+    H -- reject: arrangement --> P
+    H -- modify --> M[modify] --> H
+```
+
+</details>
+
+<img src=".github/divider.svg" width="100%" alt=""/>
+
+### 🧰 Tech Stack
 
 <img src=".github/stack.svg" width="100%" alt="Tech stack. Languages: Python, SQL. Data science and ML: NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, Keras, LightGBM, AWS SageMaker. GenAI, NLP and LLMs: HuggingFace, RAG, LLM evaluation, semantic search, embeddings, reranking, LangGraph, multi-agent systems, Gemini, Ollama. Search and data engineering: Elasticsearch, Airflow, Databricks, ETL. Backend: FastAPI, Django, React, SQLite, GitHub Actions."/>
 
@@ -88,12 +164,7 @@ I'm a Computer Science & Engineering graduate and Data Scientist, focused on the
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Public_Repos-15-2E7D6B?style=for-the-badge" alt="Public Repos"/>
-<img src="https://img.shields.io/badge/GitHub_Member_Since-2019-2E7D6B?style=for-the-badge" alt="Member Since 2019"/>
-<img src="https://img.shields.io/badge/Most_Used_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Most Used Language"/>
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=mugil0095&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E7D6B&icon_color=2E7D6B&text_color=C9D1D9&hide=issues,contribs&hide_rank=true&disable_animations=true" height="160" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugil0095&layout=compact&hide=jupyter%20notebook,html,css,jinja&disable_animations=true&hide_border=true&bg_color=0D1117&title_color=2E7D6B&text_color=C9D1D9" height="160" alt="Top languages"/>
+<img src=".github/stats.svg" width="100%" alt="Live GitHub stats: public repos, repos built this year, GitHub member since, and language mix"/>
 
 <br/>
 
