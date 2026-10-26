@@ -13,10 +13,6 @@
 <br/>
 🎯 Open to Data Scientist / ML Engineer / AI Engineer roles
 
-<br/>
-
-<img src=".github/pipeline.svg" width="100%" alt="How I build retrieval: query, embed, retrieve with BM25 and dense vectors, rerank, ground check, then answer or refuse"/>
-
 </div>
 
 <img src=".github/divider.svg" width="100%" alt=""/>
@@ -26,6 +22,12 @@
 I'm a Computer Science & Engineering graduate and Data Scientist, focused on the retrieval layer of applied NLP — semantic search, ranking, and the RAG pipelines that sit behind AI assistants. I like turning messy, unstructured data into something a product can query reliably in real time. Right now I'm building and shipping end-to-end AI projects: model-selection tooling, multi-agent planners, and an AI resume & LinkedIn reviewer.
 
 <img src=".github/now.svg" width="100%" alt="Building tiebreak, Callio and VerityRAG. Open to Data Scientist, ML and AI Engineer roles, hybrid and remote, with visa sponsorship. Ask me about RAG, semantic search, embeddings, Elasticsearch ranking and Airflow ETL."/>
+
+<img src=".github/divider.svg" width="100%" alt=""/>
+
+### 🔎 How I Build Retrieval
+
+<img src=".github/principles.svg" width="100%" alt="Four principles with the work that shows them. 1: hybrid, not just vectors (Udemy, VerityRAG). 2: rank, then rerank (Udemy, VerityRAG). 3: measure on real data (VerityRAG, tiebreak). 4: refuse over hallucinate (VerityRAG)."/>
 
 <img src=".github/divider.svg" width="100%" alt=""/>
 
