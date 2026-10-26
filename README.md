@@ -7,6 +7,9 @@
 <a href="https://github.com/mugil0095"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://komarev.com/ghpvc/?username=mugil0095&style=for-the-badge&color=2E7D6B&label=PROFILE+VIEWS" alt="profile views"/>
 
+<a href="https://github.com/mugil0095"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2E7D6B&center=true&vCenter=true&width=700&lines=Agentic+RAG+%26+hallucination+guards;Picking+the+cheapest+model+that+ties+the+best;Multi-agent+workflows+with+humans+in+the+loop;Semantic+search+%26+ranking+at+scale" alt="typing intro"/></a>
+<br/><br/>
+
 **Building agentic RAG & LLM-evaluation systems** &nbsp;·&nbsp; Semantic Search &nbsp;·&nbsp; Multi-Agent Workflows &nbsp;·&nbsp; Embeddings
 <br/>
 🎯 Open to Data Scientist / ML Engineer / AI Engineer roles
@@ -209,6 +212,9 @@ A retrieval-based chatbot that answers natural-language questions directly from 
 <img src="https://img.shields.io/badge/Public_Repos-15-2E7D6B?style=for-the-badge" alt="Public Repos"/>
 <img src="https://img.shields.io/badge/GitHub_Member_Since-2019-2E7D6B?style=for-the-badge" alt="Member Since 2019"/>
 <img src="https://img.shields.io/badge/Most_Used_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Most Used Language"/>
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=mugil0095&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E7D6B&icon_color=2E7D6B&text_color=C9D1D9&hide=issues" height="160" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugil0095&layout=compact&hide_border=true&bg_color=0D1117&title_color=2E7D6B&text_color=C9D1D9" height="160" alt="Top languages"/>
 
 </div>
 
