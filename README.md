@@ -60,9 +60,9 @@ I'm a Computer Science & Engineering graduate and Data Scientist, focused on the
 <!--RECENT_ACTIVITY:START-->
 | Project | What it is | Updated |
 |---|---|---|
-| [**fresh-replenish**](https://github.com/mugil0095/fresh-replenish) | Fresh-food replenishment for quick-commerce dark stores | Nov 20 |
-| [**Verity-RAG**](https://github.com/mugil0095/Verity-RAG) | Real-time agentic RAG with grounding & hallucination detection | Nov 6 |
-| [**tiebreak**](https://github.com/mugil0095/tiebreak) | Find the cheapest model that is statistically tied with the best on your own data | Oct 28 |
+| [**tiebreak**](https://github.com/mugil0095/tiebreak) | Find the cheapest model that is statistically tied with the best on your own data | Nov 21 |
+| [**Verity-RAG**](https://github.com/mugil0095/Verity-RAG) | Real-time agentic RAG with grounding & hallucination detection | Nov 21 |
+| [**fresh-replenish**](https://github.com/mugil0095/fresh-replenish) | Fresh-food replenishment for quick-commerce dark stores | Nov 21 |
 | [**ai-travel-planner**](https://github.com/mugil0095/ai-travel-planner) | Multi-agent travel planner | Oct 26 |
 <!--RECENT_ACTIVITY:END-->
 
